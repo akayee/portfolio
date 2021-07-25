@@ -12,9 +12,9 @@ const Hero = (props) => (
         My Personel Portfolio
       </SectionTitle>
       <SectionText>
-        My purpose is being best software developer on the world!
+      Hello! My name is Ahmet Kemal YILMAZ.<br /> My purpose is being best software developer on the world!
       </SectionText>
-      <Button onClick={()=> window.location = 'https//google.com'}>Learn More</Button>
+      <Button onClick={()=> window.location = 'mailto:aky@outlook.com.tr'}>Contact Me</Button>
     </LeftSection>
   </Section>
 );
